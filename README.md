@@ -145,3 +145,5 @@ AS-IS 조직(Horizontally-Aligned) -> TO-BE 조직(Vertically-Aligned)
 
 2. HPA 실행<br>
 ![HPA_replica 실행됨](https://user-images.githubusercontent.com/73535272/97378959-fd979500-1906-11eb-9c2f-9bf10dd88a9b.JPG)
+
+3. Readiness<br>
