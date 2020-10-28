@@ -149,3 +149,8 @@ AS-IS 조직(Horizontally-Aligned) -> TO-BE 조직(Vertically-Aligned)
 3. Readiness<br>
 ![Readiness-seige 과정](https://user-images.githubusercontent.com/73535272/97389728-68a09600-191e-11eb-8649-8ca586c9b1ce.JPG)
 ![Readiness-siege 결과](https://user-images.githubusercontent.com/73535272/97389730-69d1c300-191e-11eb-8359-410880e72151.JPG)
+
+
+
+
+![20201028_150506](https://user-images.githubusercontent.com/73535272/97403233-6991f180-1937-11eb-8e18-b32b576799a8.jpg)
