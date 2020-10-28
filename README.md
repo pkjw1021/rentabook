@@ -152,5 +152,3 @@ AS-IS 조직(Horizontally-Aligned) -> TO-BE 조직(Vertically-Aligned)
 
 
 
-
-![20201028_150506](https://user-images.githubusercontent.com/73535272/97403233-6991f180-1937-11eb-8e18-b32b576799a8.jpg)
